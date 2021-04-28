@@ -1,0 +1,6 @@
+framework module Pods_HCSafeCrash_Example {
+  umbrella header "Pods-HCSafeCrash_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

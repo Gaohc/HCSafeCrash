@@ -1,0 +1,6 @@
+framework module HCSafeCrash {
+  umbrella header "HCSafeCrash-umbrella.h"
+
+  export *
+  module * { export * }
+}
