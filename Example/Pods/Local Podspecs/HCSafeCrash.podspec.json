@@ -1,18 +1,18 @@
 {
   "name": "HCSafeCrash",
   "version": "0.1.0",
-  "summary": "A short description of HCSafeCrash.",
+  "summary": "OCcrash预防工具HCSafeCrash.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/gaohongcheng/HCSafeCrash",
+  "homepage": "https://github.com/Gaohc/HCSafeCrash.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "gaohongcheng": "gaohongcheng@ybm100.com"
+    "gaohongcheng": "1062553903@qq.com"
   },
   "source": {
-    "git": "https://github.com/gaohongcheng/HCSafeCrash.git",
+    "git": "https://github.com/Gaohc/HCSafeCrash.git",
     "tag": "0.1.0"
   },
   "platforms": {
